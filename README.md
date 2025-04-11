@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div style="text-align: center;">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Parkinsans&weight=600&size=35&pause=1000&color=27F7F5&background=FFFFFF¢er=true&vCenter=true&width=600&height=100&lines=Hey+there%21+I%27m+sharryXR%21+%F0%9F%98%BA;So+excited+to+meet+you%21+%E2%9C%A8;Let%27s+create+something+awesome+together%21+%F0%9F%92%96" alt="Animated typing text introducing sharryXR with a friendly greeting" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Parkinsans&weight=600&size=35&pause=1000&color=27F7F5&background=FFFFFF¢er=true&vCenter=true&width=600&height=100&lines=Hey+there%21+I%27m+sharryXR%21+%F0%9F%98%BA;So+excited+to+meet+you%21+%E2%9C%A8;Let%27s+make+cool+stuff%21+%F0%9F%92%96" alt="Animated typing text introducing sharryXR with a friendly greeting" />
     </a>
 </div>
 
