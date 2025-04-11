@@ -1,10 +1,11 @@
 ## Hi there 👋
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+<h1 align="center">
+    <div align="center">
+        <a href="https://git.io/typing-svg">
+            <img src="http://readme-typing-svg.herokuapp.com?font=Parkinsans&weight=600&size=35&pause=1000&color=27F7F5&background=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=hello!+I+am+sharryXR+%F0%9F%91%BE;wish+you+have+a+nice+day%F0%9F%8C%9E;no+error+and+warning%F0%9F%90%92" alt="Typing SVG" />
+        </a>
+    </div>
+</h1>
 
 <!--
 **sharryXR/sharryXR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
